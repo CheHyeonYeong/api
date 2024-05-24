@@ -1,2 +1,4 @@
-package com.jwt.demo.util;public class JWTUtil {
+package com.jwt.demo.util;
+
+public class JWTUtil {
 }
